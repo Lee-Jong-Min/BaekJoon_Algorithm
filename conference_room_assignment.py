@@ -20,12 +20,6 @@ for i in conference_time:
         end_time = i[1]
 
 print(num_of_conference)
-    
-        
-# for i in range(1,N):
-#     if conference_time[i][0] >= end_time:
-#         num_of_conference += 1
-#         end_time = conference_time[i][1]
 
 
 
