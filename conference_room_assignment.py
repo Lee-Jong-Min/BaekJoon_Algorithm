@@ -20,7 +20,3 @@ for i in conference_time:
         end_time = i[1]
 
 print(num_of_conference)
-
-
-
-
